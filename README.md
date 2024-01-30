@@ -1,2 +1,2 @@
 # APCSA
-Files for teaching AP CS A
+A project investigating The Sieve of Eratothenes using Java and arrays.
